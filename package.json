@@ -1,0 +1,15 @@
+{
+  "name": "generator-flux",
+  "version": "0.0.1",
+  "description": "Yeoman generator for flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.17.7"
+  }
+}
